@@ -1,0 +1,69 @@
+nav {
+    -webkit-box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.25);
+    z-index: 1000;
+    border-bottom: 1px solid white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    border-bottom: 2px solid transparent;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    border-bottom: 2px solid red;
+}
+
+.navbar-light .navbar-nav .nav-link:active {
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: red;
+}
+
+.navbar-light .navbar-nav .nav-link.active:active {
+    color: #333333;
+}
+
+.logo {
+    position: relative;
+    border-radius: 50%;
+    padding: 8px;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    -webkit-box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.25);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.logo:hover {
+    box-shadow: 0 0 8px 2px rgba(0, 0, 0, 0.5);
+}
+
+.form-inline > * {
+    margin: 5px;
+}
+
+h4 {
+    color: darkred;
+    font-weight: 200;
+}
+
+h2 {
+    color: red;
+    font-size: 4.5em;
+    font-weight: 200;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    margin-bottom: -6px;
+    margin-top: 32px;
+}
+
+.table {
+    border-color: red;
+}
+
+.hiddenRow {
+    padding: 0 !important;
+}

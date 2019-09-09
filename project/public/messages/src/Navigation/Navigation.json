@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Navbar.home",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "Navbar.team",
+    "defaultMessage": "Our team"
+  },
+  {
+    "id": "Navbar.units",
+    "defaultMessage": "Units"
+  },
+  {
+    "id": "Navbar.statistics",
+    "defaultMessage": "Statistics"
+  },
+  {
+    "id": "Navbar.locations",
+    "defaultMessage": "Locations"
+  },
+  {
+    "id": "Navbar.profile",
+    "defaultMessage": "Profile"
+  },
+  {
+    "id": "Navbar.dashboard",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "Button.login",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "Button.register",
+    "defaultMessage": "Register"
+  },
+  {
+    "id": "Button.logout",
+    "defaultMessage": "Logout"
+  }
+]

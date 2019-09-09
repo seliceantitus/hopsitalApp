@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Review.invalidLink",
+    "defaultMessage": "Invalid link entered"
+  },
+  {
+    "id": "Review.noMedicSelected",
+    "defaultMessage": "No medic was selected for review"
+  },
+  {
+    "id": "Review.noComments",
+    "defaultMessage": "There are no comments yet"
+  },
+  {
+    "id": "Review.noRatingSelected",
+    "defaultMessage": "No rating selected"
+  },
+  {
+    "id": "Review.noCommentEntered",
+    "defaultMessage": "No comment entered"
+  },
+  {
+    "id": "Review.loginError",
+    "defaultMessage": "Please login in order to view your profile"
+  },
+  {
+    "id": "Review.success",
+    "defaultMessage": "Review entered successfully."
+  },
+  {
+    "id": "Review.header",
+    "defaultMessage": "Currently reviewing"
+  },
+  {
+    "id": "Button.add",
+    "defaultMessage": "Add review"
+  },
+  {
+    "id": "Review.comments",
+    "defaultMessage": "Others said"
+  }
+]

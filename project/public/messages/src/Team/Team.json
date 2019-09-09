@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Team.memberSpecialization",
+    "defaultMessage": "Specialization"
+  },
+  {
+    "id": "Team.memberGraduationYear",
+    "defaultMessage": "Graduation year"
+  },
+  {
+    "id": "Team.memberRating",
+    "defaultMessage": "Rating"
+  },
+  {
+    "id": "Button.review",
+    "defaultMessage": "Add a review"
+  },
+  {
+    "id": "Team.mainHeader",
+    "defaultMessage": "More than doctors"
+  },
+  {
+    "id": "Team.slogan",
+    "defaultMessage": "Highly trained staff who sees you as a friend before a patient"
+  }
+]

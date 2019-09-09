@@ -1,0 +1,26 @@
+[
+  {
+    "id": "Button.details",
+    "defaultMessage": "Details"
+  },
+  {
+    "id": "Services.mainHeader",
+    "defaultMessage": "Services"
+  },
+  {
+    "id": "Services.slogan",
+    "defaultMessage": "We offer a wide variety of high quality services"
+  },
+  {
+    "id": "Services.serviceName",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "Services.serviceLocation",
+    "defaultMessage": "Location"
+  },
+  {
+    "id": "Services.servicePrice",
+    "defaultMessage": "Price"
+  }
+]

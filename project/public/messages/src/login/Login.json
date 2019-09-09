@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Form.email",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "Form.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "Button.login",
+    "defaultMessage": "Login"
+  }
+]

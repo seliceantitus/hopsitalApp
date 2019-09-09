@@ -1,0 +1,39 @@
+{
+  "services": [
+    {
+      "id": 0,
+      "name": "s1",
+      "where": "sLocation",
+      "price": 100,
+      "icon": "priceIcon"
+    },
+    {
+      "id": 1,
+      "name": "s2",
+      "where": "sLocation",
+      "price": 200,
+      "icon": "priceIcon"
+    },
+    {
+      "id": 2,
+      "name": "s3",
+      "where": "sLocation",
+      "price": 300,
+      "icon": "priceIcon"
+    },
+    {
+      "id": 3,
+      "name": "s4",
+      "where": "sLocation",
+      "price": 400,
+      "icon": "priceIcon"
+    },
+    {
+      "id": 4,
+      "name": "s5",
+      "where": "sLocation",
+      "price": 500,
+      "icon": "priceIcon"
+    }
+  ]
+}

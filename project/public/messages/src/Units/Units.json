@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Units.unitAddress",
+    "defaultMessage": "Address"
+  },
+  {
+    "id": "Units.unitType",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "Button.details",
+    "defaultMessage": "Details"
+  },
+  {
+    "id": "Units.mainHeader",
+    "defaultMessage": "Where you can find us"
+  },
+  {
+    "id": "Units.slogan",
+    "defaultMessage": "We have more than 100 hospitals and laboratories"
+  }
+]

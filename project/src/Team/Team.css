@@ -1,0 +1,52 @@
+.media {
+    padding: 20px;
+}
+
+.media img {
+    margin: auto;
+    border-radius: 51%;
+    border: 3px solid white;
+    -webkit-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+    transition: box-shadow 0.4s ease-in-out;
+}
+
+.media img:hover {
+    -webkit-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.4);
+}
+
+.media-body {
+    display: inline;
+    padding: 10px;
+    text-align: center;
+}
+
+.progress-bar {
+    background-color: rgb(255, 100, 100);
+    -webkit-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.6);
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.6);
+}
+
+.progress {
+    background-color: #dfdfdf;
+}
+
+h3 {
+    text-align: left;
+    font-weight: 300;
+    color: red;
+    padding-left: 12px;
+}
+
+table {
+    text-align: left;
+    max-width: 700px;
+}
+
+tr:first-child {
+    border-top: 2px solid red;
+}

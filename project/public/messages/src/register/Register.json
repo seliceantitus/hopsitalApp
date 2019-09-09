@@ -1,0 +1,30 @@
+[
+  {
+    "id": "Register.emptyName",
+    "defaultMessage": "Name cannot be empty"
+  },
+  {
+    "id": "Register.emptyEmail",
+    "defaultMessage": "Email cannot be empty"
+  },
+  {
+    "id": "Register.emptyPassword",
+    "defaultMessage": "Password cannot be empty"
+  },
+  {
+    "id": "Form.name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "Form.email",
+    "defaultMessage": "Email address"
+  },
+  {
+    "id": "Form.password",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "Button.register",
+    "defaultMessage": "Register"
+  }
+]

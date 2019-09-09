@@ -1,0 +1,26 @@
+.unitsRow {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.media h5, p {
+    text-align: left;
+}
+
+.media h5 {
+    border-bottom: 1px solid darkred;
+    margin-bottom: 16px;
+    font-weight: 400;
+}
+
+.media .descriptor {
+    font-weight: bold;
+}
+
+.media .unitsButton {
+    text-align: left;
+}
+
+.add-unit {
+    margin-top: 30px;
+}

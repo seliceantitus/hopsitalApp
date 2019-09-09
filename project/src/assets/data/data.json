@@ -1,0 +1,78 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "type": "L",
+      "name": "U1",
+      "address": "1 Address Street",
+      "pictureUrl": "101-hospital.png",
+      "medics": [
+        {
+          "name": "Selicean Titus",
+          "specialization": "SpM1.1",
+          "graduated": 1945,
+          "rating": 4.3,
+          "pictureUrl": "101-doctor.png"
+        },
+        {
+          "name": "Todoran Aurel",
+          "specialization": "SpM1.2",
+          "graduated": 1946,
+          "rating": 4,
+          "pictureUrl": "101-doctor-1.png"
+        },
+        {
+          "name": "Todoran Eneia",
+          "specialization": "SpM1.3",
+          "graduated": 1947,
+          "rating": 2.8,
+          "pictureUrl": "101-doctor-2.png"
+        },
+        {
+          "name": "Bill Gates",
+          "specialization": "SpM1.4",
+          "graduated": 1948,
+          "rating": 5,
+          "pictureUrl": "101-doctor-3.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "H",
+      "name": "U2",
+      "address": "2 Address Street",
+      "pictureUrl": "101-pharmacy-3.png",
+      "medics": [
+        {
+          "name": "Medic2.1",
+          "specialization": "SpM2.1",
+          "graduated": 1945,
+          "rating": 5,
+          "pictureUrl": "101-doctor-1.png"
+        },
+        {
+          "name": "Medic2.2",
+          "specialization": "SpM2.2",
+          "graduated": 1946,
+          "rating": 5,
+          "pictureUrl": "101-doctor-3.png"
+        },
+        {
+          "name": "Medic2.3",
+          "specialization": "SpM2.3",
+          "graduated": 1947,
+          "rating": 5,
+          "pictureUrl": "101-doctor-2.png"
+        },
+        {
+          "name": "Medic2.4",
+          "specialization": "SpM2.4",
+          "graduated": 1948,
+          "rating": 5,
+          "pictureUrl": "101-doctor.png"
+        }
+      ]
+    }
+  ]
+}

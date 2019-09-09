@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Footer.description",
+    "defaultMessage": "Short description goes here"
+  },
+  {
+    "id": "Footer.links",
+    "defaultMessage": "Links"
+  },
+  {
+    "id": "Footer.contact",
+    "defaultMessage": "Contact"
+  }
+]

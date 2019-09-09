@@ -1,0 +1,18 @@
+[
+  {
+    "id": "Profile.loginError",
+    "defaultMessage": "Please login in order to view your profile"
+  },
+  {
+    "id": "Profile.conditionsToSelect",
+    "defaultMessage": "Select a condition"
+  },
+  {
+    "id": "Profile.conditionsSelected",
+    "defaultMessage": "Your selected conditions"
+  },
+  {
+    "id": "Button.save",
+    "defaultMessage": "Save"
+  }
+]

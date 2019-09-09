@@ -1,0 +1,54 @@
+[
+  {
+    "id": "Homepage.description",
+    "defaultMessage": "Nationwide services since 2013"
+  },
+  {
+    "id": "Homepage.highlight1Title",
+    "defaultMessage": "Highlight1"
+  },
+  {
+    "id": "Homepage.highlight1Text",
+    "defaultMessage": "Some quick example text to build on the card title and make up the bulk of\n                                the card's content."
+  },
+  {
+    "id": "Homepage.highlight1Button",
+    "defaultMessage": "Learn more"
+  },
+  {
+    "id": "Homepage.highlight2Title",
+    "defaultMessage": "Highlight2"
+  },
+  {
+    "id": "Homepage.highlight2Text",
+    "defaultMessage": "Some quick example text to build on the card title and make up the bulk of\n                                the card's content."
+  },
+  {
+    "id": "Homepage.highlight2Button",
+    "defaultMessage": "Learn more"
+  },
+  {
+    "id": "Homepage.highlight3Title",
+    "defaultMessage": "Highlight3"
+  },
+  {
+    "id": "Homepage.highlight3Text",
+    "defaultMessage": "Some quick example text to build on the card title and make up the bulk of\n                                the card's content."
+  },
+  {
+    "id": "Homepage.highlight3Button",
+    "defaultMessage": "Learn more"
+  },
+  {
+    "id": "Homepage.highlight4Title",
+    "defaultMessage": "Highlight4"
+  },
+  {
+    "id": "Homepage.highlight4Text",
+    "defaultMessage": "Some quick example text to build on the card title and make up the bulk of\n                                the card's content."
+  },
+  {
+    "id": "Homepage.highlight4Button",
+    "defaultMessage": "Learn more"
+  }
+]
